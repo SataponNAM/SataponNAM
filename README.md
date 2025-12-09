@@ -2,7 +2,7 @@
 
 ### I'm a fourth-year Computer Science student at King mongkut's University of technology north bangkok.
 
-- 🌱 I'm currently learning **Spring boot and Angular**
+- 🌱 I'm currently learning **Spring boot**
 
 - 📫 How to reach me **sataponsf@gmail.com**
 
