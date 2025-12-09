@@ -1,4 +1,4 @@
-# Hi 👋, I'm Satapon Faknoi
+# Hi 👋, I'm Satapon 
 
 ### I'm a fourth-year Computer Science student at King mongkut's University of technology north bangkok.
 
