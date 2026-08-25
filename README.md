@@ -1,6 +1,6 @@
 # Hi 👋, I'm Satapon 
 
-### I'm a fresh graduate in compoter science at King mongkut's University of technology north bangkok.
+### I'm a fresh graduate in Computer Science from King Mongkut's University of Technology North Bangkok.
 
 - 🌱 I'm currently learning **Spring boot**
 
