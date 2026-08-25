@@ -1,10 +1,14 @@
 # Hi 👋, I'm Satapon 
 
-### I'm a fourth-year Computer Science student at King mongkut's University of technology north bangkok.
+### I'm a fresh graduate in compoter science at King mongkut's University of technology north bangkok.
 
 - 🌱 I'm currently learning **Spring boot**
 
 - 📫 How to reach me **sataponsf@gmail.com**
+
+### 🚀 Projects I'm currently working on
+
+- **[AI Career Advisor (SaaS)](https://github.com/ai-career-saas)** — Multi-service AI career platform
 
 <h3 align="left">Languages and Tools:</h3>
 
